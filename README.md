@@ -48,4 +48,4 @@ x_4=23, P4=0.5-3*mu，有10个学生;
 
 [1].《机器学习》.周志华.清华大学出版社
 
-[2].《Machine Learning》.Andrew Ng. Coursera, Standford University
+[2].《Machine Learning》.Andrew Ng. Coursera, Stanford University
